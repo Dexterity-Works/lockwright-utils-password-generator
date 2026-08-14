@@ -1,3 +1,6 @@
+> [!WARNING]
+> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
+
 # pearpass-utils-password-generator
 
 An utility package for generating secure passwords and passphrases.
