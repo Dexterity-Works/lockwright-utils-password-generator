@@ -31,7 +31,7 @@ Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Teth
 
 ## Security Notice
 
-Imports stay `@tetherto/pearpass-utils-password-generator`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-utils-password-generator`.
 
 ## Installation
 
@@ -41,7 +41,7 @@ npm install git+https://github.com/Dexterity-Works/lockwright-utils-password-gen
 
 ## Usage Examples
 ```javascript
-import { generatePassword, generatePassphrase } from '@tetherto/pearpass-utils-password-generator';
+import { generatePassword, generatePassphrase } from 'lockwright-utils-password-generator';
 
 // Generate a password
 const password = generatePassword(12, {
